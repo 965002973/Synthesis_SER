@@ -1,11 +1,20 @@
-<div align="center">
-    <h1>
-    On the Emotion Understanding of Synthesized Speech
-    </h1>
-    <p>
-    <b><em>Synthesized SER training and evaluation demo</em></b>
-    </p>
-</div>
+<h1 align="center"> On the Emotion Understanding of Synthesized Speech</h1>
+<h4 align="center"> Yuan Ge, Haishu Zhao, Aokai Hao, Junxiang Zhang, Bei Li, Xiaoqian Liu, Chenglong Wang, Jianjin Wang, Bingsen Zhou, Bingyu Liu, Jingbo Zhu, Zhengtao Yu, Tong Xiao</h4>
+
+<p align="center">
+  📄 <a href="https://arxiv.org/pdf/2603.16483">Paper</a> | 
+  🤗 <a href="https://huggingface.co">Model (coming soon)</a> | 
+  🤗 <a href="https://huggingface.co">Dataset (coming soon)</a>
+</p>
+
+<h3 align="center"> Synthesized SER training and evaluation demo </h3>
+
+## News💡
+
+- [2026.04] Our paper is accepted by ACL 2026!🎉🎉🎉 (**_Top 5%_** of accepted papers, seminal paper)
+- [2026.03] The full dataset and model parameters will be released soon.
+- [2026.03] Demo code, test dataset, have been publicly released.
+- [2026.03] We release our paper. If you have any questions about our project, please send email to geyuanqaq@gmail.com.
 
 # Install requirements
 ```bash
@@ -90,10 +99,17 @@ python /your/path/to/downstream/visualize/visualize.py
 ```
 
 
+## Citation 
 
-
-
-
+If you find our paper useful, please consider citing:
+```bibtex
+@article{ge2026emotion,
+  title={On the Emotion Understanding of Synthesized Speech},
+  author={Ge, Yuan and Zhao, Haishu and Hao, Aokai and Zhang, Junxiang and Li, Bei and Liu, Xiaoqian and Wang, Chenglong and Wang, Jianjin and Zhou, Bingsen and Liu, Bingyu and others},
+  journal={arXiv preprint arXiv:2603.16483},
+  year={2026}
+}
+```
 
 
 
