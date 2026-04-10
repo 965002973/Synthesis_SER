@@ -11,7 +11,7 @@
 
 ## News💡
 
-- [2026.04] Our paper is accepted by ACL 2026!🎉🎉🎉 (**_Top 5%_** of accepted papers, seminal paper)
+- [2026.04] Our paper is accepted by ACL 2026 (Main Conference)!🎉🎉🎉 (**_Top 5%_** of accepted papers, seminal paper)
 - [2026.03] The full dataset and model parameters will be released soon.
 - [2026.03] Demo code, test dataset, have been publicly released.
 - [2026.03] We release our paper. If you have any questions about our project, please send email to geyuanqaq@gmail.com.
